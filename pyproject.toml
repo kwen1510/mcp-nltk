@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.scripts]
-nltk-mcp = "ntlk_mcp_002.nltk_mcp:main"
+nltk-mcp = "nltk_mcp:main"
 
 [tool.setuptools.package-data]
 "server" = ["corpora.txt"]
